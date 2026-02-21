@@ -29,6 +29,11 @@ const notes = [
         title: "Routing with React Router",
         content: "React Router is a library for managing navigation in React apps. It helps create single-page applications with multiple views.",
     },
+        {
+        id: 7,
+        title: "Routing with React Router",
+        content: "React Router is a library for managing navigation in React apps. It helps create single-page applications with multiple views.",
+    },
 ];
 
 export default notes;
